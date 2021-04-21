@@ -14,7 +14,7 @@ Therefore, this project is only for personal learning and communication. If you 
 - [ ] Xianyu (闲鱼)
 - [x] QQ-Classic ( QQ 经典表情)
 - [x] QQ
-- [ ] Wechat (微信)
+- [x] Wechat (微信)
 - [ ] Dingding (钉钉)
 - [ ] Tiktok (抖音)
 - [ ] Zhihu (知乎)

@@ -10,6 +10,7 @@ Therefore, this project is only for personal learning and communication. If you 
 - [ ] Bilibili (哔哩哔哩)
 - [x] Weibo (微博)
 - [x] Meituan (美团外卖)
+- [x] Tieba-New (贴吧-新滑稽)
 - [ ] Xianyu (闲鱼)
 - [ ] QQ
 - [ ] Wechat (微信)

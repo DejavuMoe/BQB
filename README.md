@@ -12,7 +12,7 @@ Therefore, this project is only for personal learning and communication. If you 
 - [x] Meituan (美团外卖)
 - [x] Tieba-New (贴吧-新滑稽)
 - [ ] Xianyu (闲鱼)
-- [ ] QQ
+- [x] QQ
 - [ ] Wechat (微信)
 - [ ] Dingding (钉钉)
 - [ ] Tiktok (抖音)

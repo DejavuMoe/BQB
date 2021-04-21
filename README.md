@@ -1,5 +1,3 @@
-[![](https://gh-card.dev/repos/Spoience/BQB.svg?fullname=)](https://github.com/Spoience/BQB)
-
 ## Introduction
 
 Some built-in emoticons in social apps with more users in China,most of them are popular social or life apps, which also means that they are commercial companies, so the copyright belongs to the original organization.

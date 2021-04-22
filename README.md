@@ -4,6 +4,8 @@ Some built-in emoticons in social apps with more users in China,most of them are
 
 Therefore, this project is only for personal learning and communication. If you use it for commercial purposes, you will bear the copyright and legal risks yourself.
 
+🎈[使用说明&Valine/Waline一键配置教程](https://spoience.com/articles/apps-emoji.html)
+
 ## Schedule
 
 - [x] Coolapk (酷安)

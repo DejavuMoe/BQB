@@ -1,3 +1,5 @@
+![Wechat](https://cdn.jsdelivr.net/gh/Spoience/icy@v1.0.2/img/wechat.png)
+
 > 对于Valine评论系统的[自定义表情](https://valine.js.org/emoji.html)和Waline评论系统的[自定义表情](https://waline.js.org/client/emoji.html)，它们的配置类似：
 
 ```yaml

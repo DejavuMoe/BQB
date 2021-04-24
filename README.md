@@ -6,6 +6,8 @@ Therefore, this project is only for personal learning and communication. If you 
 
 🎈[使用说明&Valine/Waline一键配置教程](https://spoience.com/articles/apps-emoji.html)
 
+[![](https://data.jsdelivr.com/v1/package/gh/Spoience/BQB/badge)](https://www.jsdelivr.com/package/gh/Spoience/BQB)
+
 ## Schedule
 
 - [x] [Coolapk](https://github.com/Spoience/BQB/blob/master/Coolapk/Coolapk.md) (酷安)

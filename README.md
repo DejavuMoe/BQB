@@ -14,7 +14,7 @@ However, please note that most of these social apps are commercial companies, so
 
  👉View our [Project Progress](https://github.com/DejavuMoe/BQB/projects/1) | 查看我们的 [项目进度](https://github.com/DejavuMoe/BQB/projects/1) 👈
 
-> 旧版本 [v1.0.0](https://github.com/DejavuMoe/BQB/releases/tag/v1.0.0) 使用 jsDelivr 加速 GitHub Release 版本，新版本即将使用 npm 发布
+> 旧版本 [v1.0.0](https://github.com/DejavuMoe/BQB/releases/tag/v1.0.0) 使用 [jsDelivr](https://www.jsdelivr.com/) 加速 GitHub Release 版本，新版本即将使用 npm 发布
 
 **✨初始阶段已完成**
 

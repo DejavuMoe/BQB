@@ -30,13 +30,13 @@ However, please note that most of these social apps are commercial companies, so
 - [x] Wechat (微信)
 
 
-## Contribution/贡献
+## 🤺Contribution/贡献
 
 You can contribute unfinished emoji resources in the above list, and of course you can also supplement and correct existing resources.
 
 你可以在上述列表中贡献未完成的表情符号资源，当然你也可以补充和修正现有的资源。
 
-## License/许可证
+## 🧾License/许可证
 
 [DejavuMoe/BQB](https://github.com/DejavuMoe/BQB) is licensed under the [Mozilla Public License 2.0](https://github.com/DejavuMoe/BQB/blob/master/LICENSE)
 
